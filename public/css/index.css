@@ -1,1 +1,89 @@
+.lesson-four-task-one :hover {
+    color: red;
+    background: yellow;
+}
 
+.lesson-four-task-two h1:hover {
+    color: green;
+}
+
+.lesson-four-task-three a:visited {
+    color: yellow;
+  }
+
+.lesson-four-task-four a:link {
+    color: red;
+}
+
+.lesson-four-task-five .btn:active {
+    background: blue;
+}
+
+.lesson-four-task-six :focus {
+    color: orange;
+    background: orange;
+}
+
+.lesson-four-task-seven :target {
+    color: white;
+    background: green;
+}
+
+ .lesson-four-task-eight #checkbox:checked ~ #target {
+    color: white;
+    background: blue;
+}
+
+.lesson-four-task-nine :lang(uk) {
+    color:blue;
+}
+
+.lesson-four-task-ten :enabled {
+    color:red;
+    background: yellow;
+}
+
+.lesson-four-task-eleven :disabled {
+    background: yellow;
+}
+
+.lesson-four-task-twelve input:read-write {
+    color: yellow;
+}
+
+.lesson-four-task-thirteen :read-write {
+    background: yellow;
+}
+
+.lesson-four-task-fourteen :valid {
+    background: green;
+}
+
+.lesson-four-task-fourteen :invalid {
+    background: red;
+}
+
+.lesson-four-task-fifteen textarea:optional {
+    background: red;
+}
+
+.lesson-four-task-sixteen :out-of-range {
+    color:red;
+}
+
+.lesson-four-task-seventeen :in-range {
+    color:red;
+}
+
+.lesson-four-task-eighteen :placeholder-shown {
+    background:red;
+}
+
+.lesson-four-task-nineteen button:focus-within {
+    color: red;
+    background:yellow;
+}
+
+.lesson-four-task-twenty form:invalid {
+    background: red;
+}
